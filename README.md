@@ -1,5 +1,5 @@
 # ApiTareas
-Api para gestionar tareas
+Este es un proyecto de práctica donde se creó una api básica para gestionar tareas, hecha en SpringBoot 3.
 
 ## Funcionalidades
 - Crud tareas
@@ -42,4 +42,5 @@ PostgreSQL 15.2
 - Por ultimo, se pueden visualizar las tareas creadas y los diferentes endpoints
 ![image](https://user-images.githubusercontent.com/82241894/227090536-68d0ef5f-bd1d-4700-bb9e-9f9ce41c5335.png)
 
-
+## Contribudores
+- Daniel21004
