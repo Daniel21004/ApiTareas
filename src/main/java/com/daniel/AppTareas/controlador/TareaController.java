@@ -29,12 +29,6 @@ public class TareaController {
         }
     }
 
-    @GetMapping("/hola")
-    public ResponseEntity<String> getHola() {
-
-        return new ResponseEntity<>("Hola", HttpStatus.OK);
-
-    }
 
     @GetMapping("/{nombre}")
     public ResponseEntity<List<Tarea>> getTareasByNombre(@PathVariable("nombre") String nombre) {
